@@ -1,9 +1,10 @@
 
 package arraydemos23friam;
 
-
+/* a class that models Student Objects
+*/
 public class StudentList {
-    
+        
     public static void main(String[] args){
         
         Student s1 = new Student("s1","ronak");
